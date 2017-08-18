@@ -1,0 +1,98 @@
+<templateSet group="Bootstrap94">
+  <template name="bsh" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;$var1$&quot;&gt;&#10;&#9;&lt;head&gt;&#10;&#9;&#9;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&#9;&#9;&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&#10;&#9;&#9;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0, shrink-to-fit=no&quot;&gt;&#10;&#9;&#9;&lt;title&gt;Title Page&lt;/title&gt;&#10;&#9;&#9;&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css&quot;&gt;&#10;&#9;&#9;&lt;!--[if lt IE 9]&gt;&#10;&#9;&#9;&#9;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js&quot;&gt;&lt;/script&gt;&#10;&#9;&#9;&#9;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js&quot;&gt;&lt;/script&gt;&#10;&#9;&#9;&lt;![endif]--&gt;&#10;&#9;&lt;/head&gt;&#10;&#9;&lt;body&gt;&#10;&#9;&#9;&#10;&#9;&#9;$SELECTION$$END$&#10;&#9;&#9;&#10;&#9;&#9;&#10;&#9;&#9;&lt;script src=&quot;https://code.jquery.com/jquery.js&quot;&gt;&lt;/script&gt;&#10;&#9;&#9;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;&#10;&#9;&lt;/body&gt;&#10;&lt;/html&gt;" description="bootstrap 3 html template" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="&quot;zh-Hant-TW&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr39" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-9&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄39" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr48" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄48" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr55" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-5 col-sm-offset-1&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-5&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄55" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr66" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄66" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr84" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄84" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr93" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-9&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄93" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr363" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="三欄363" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr444" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="三欄444" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr633" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="三欄633" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr3333" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="四欄" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr22222" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2 col-sm-offset-1&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="五欄" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr222222" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="六欄" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr6" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="一欄6" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr12" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-12&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="一欄12" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr6c" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6 col-sm-offset-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="一欄6置中" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
