@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
@@ -8,7 +8,7 @@
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
@@ -24,6 +24,7 @@
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
+    <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
